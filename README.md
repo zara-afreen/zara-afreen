@@ -1,7 +1,7 @@
 # Hello! This is Zara🙋‍♀️
 [![](https://visitcount.itsvg.in/api?id=zara-afreen&icon=5&color=0)](https://visitcount.itsvg.in)
 ## 💫 About Me:
-Computer Science Student | Programmer | Internet Nerd<br><br><br>👨🏻‍🎓 I'm a Computer Science graduate.<br><br>👨🏻‍💻 I'm an AI Enthusiast <br><br>📫 You can reach out to me at zaraafreen2601@gmail.com
+Computer Science Student <br><br><br>👨🏻‍🎓 I'm a Computer Science graduate.<br><br>👨🏻‍💻 Aspire to be a Software Developer <br><br>📫 You can reach out to me at zaraafreen2601@gmail.com
 
 
 ## 🌐 Socials:
